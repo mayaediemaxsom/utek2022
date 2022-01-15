@@ -1,3 +1,16 @@
 The plan:
 
+what is going on:
+we need to assign give robots to cleaning tasks efficently 
+
+INPUT:
+1st: one is #robots, #cleaning tasks, #obstacles
+—--will store these in variables. 
+Begin loop using #robots
+2-7th: name, mef,cef
+– Use scanf(sorting into arrays)
+7-(7+nClean)th: x,y,t
+– x,y pos of the space to be cleaned, and expected time t in sec
+#-(#+nObs)th:
+
 
